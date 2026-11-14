@@ -676,7 +676,7 @@ footer {
         top: 100%;
         left: 0;
         right: 0;
-        background: rgba(250,246,239,0.97);
+        background: rgba(250,246,239,1);
         backdrop-filter: blur(14px);
         padding: 1.2rem 1.4rem;
         gap: 1rem;
